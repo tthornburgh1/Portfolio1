@@ -5,3 +5,4 @@ Complete setup/installation instructions: Clone this repository and adjust as ne
 License information with a copyright and date: Copyright 2018 Tristan Thornburgh, All Rights Reserved
 Technologies used: HTML, CSS, Bootstrap
 Contact information: tristan.thornburgh@gmail.com
+View this page here: https://tthornburgh1.github.io/Portfolio1/
