@@ -4,6 +4,14 @@ h1, h2 {
   font-family: 'Lato', sans-serif;
 }
 
+h3 {
+  font-size: 35px;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+  padding-bottom:0px;
+}
 
 .bg-warning {
   text-align: center;
@@ -39,5 +47,21 @@ h1, h2 {
 
 .About {
   font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+.interests {
+  float: left;
+  text-align: left;
+  font-size: 20px;
+  margin: 2px;
+  font-family: 'Lato', sans-serif;
+}
+
+.why {
+  text-align: center;
+  font-size: 20px;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
   font-family: 'Lato', sans-serif;
 }
