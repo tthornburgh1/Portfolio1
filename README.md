@@ -1,12 +1,12 @@
-# _{Portfolio Landing Page, 1.2018}_
+# _Portfolio Landing Page, 1.2018_
 
-#### _{First iteration of my programming portfolio}, {Updated on 1.30.2018}_
+#### _First iteration of my programming portfolio, Updated on 1.30.2018_
 
-#### By _**{Tristan Thornburgh}**_
+#### By _**Tristan Thornburgh**_
 
 ## Description
 
-_{After four weeks of learning HTML, CSS, and Bootstrap, this is the first peer code review where we're putting it into action. This page utilizes all three of those.}_
+_After four weeks of learning HTML, CSS, and Bootstrap, this is the first peer code review where we're putting it into action. This page utilizes all three of those._
 
 ## Setup/Installation Requirements
 
@@ -16,14 +16,14 @@ _{After four weeks of learning HTML, CSS, and Bootstrap, this is the first peer 
 
 ## Support and contact details
 
-_{If you run into any issues or have questions, ideas, or concerns, or if you'd like to contribute to the code, contact me at Tristan.Thornburgh@gmail.com. You can view this page here: https://tthornburgh1.github.io/Portfolio1/}_
+_If you run into any issues or have questions, ideas, or concerns, or if you'd like to contribute to the code, contact me at Tristan.Thornburgh@gmail.com. You can view this page here: https://tthornburgh1.github.io/Portfolio1/_
 
 ## Technologies Used
 
-_{HTML, CSS, and Bootstrap}_
+_HTML, CSS, and Bootstrap_
 
 ### License
 
-*{This software is licensed under the MIT license.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2018 **_{Tristan Thornburgh}_**
+Copyright (c) 2018 **_Tristan Thornburgh_**
